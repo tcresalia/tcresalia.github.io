@@ -1,0 +1,15 @@
+body {
+	color: blue; 
+	background-color: purple;
+	text-align: center;
+}
+
+h1 {
+	font-size: 22px;
+	font-weight: bold;
+	font-style: Helvetica;
+	text-decoration: underline;
+}
+#slogan {
+	text-transform: uppercase;
+}
