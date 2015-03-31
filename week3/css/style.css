@@ -1,14 +1,18 @@
 body {
-	color: blue; 
-	background-color: purple;
+	color: #2D9A60; 
+	background-color: #98A296;
 	text-align: center;
 }
 
 h1 {
-	font-size: 22px;
+	font-size: 42px;
 	font-weight: bold;
-	font-style: Helvetica;
-	text-decoration: underline;
+	font-style: "Comic Sans MS", cursive, sans-serif;
+	text-decoration: none;
+}
+
+ul {
+	text-align: center;
 }
 #slogan {
 	text-transform: uppercase;
