@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Overlock:400,700,900,400italic,700italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Londrina+Shadow);
+body {
+	color: #33C7B8; 
+	background-color: #cccccc;
+	font-family: Overlock, cursive, serif;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Londrina Shadow', cursive, sans-serif;
+	font-size: 70px;
+	font-weight: 900;
+	text-align: left;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+ul {
+	text-align: center;
+}
+#slogan {
+	text-transform: uppercase;
+}
+
+.sfvector {
+	width: 600px;
+	height: 500px;
+}
